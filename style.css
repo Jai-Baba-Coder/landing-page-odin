@@ -89,7 +89,7 @@ p {
     padding: 10px;
 }
 p:hover {
-    font-size: 18px;
+    /* font-size: 18px; */
     color: red;
 }
 .quote {
